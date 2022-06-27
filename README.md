@@ -13,9 +13,9 @@ The CC resistors make this mod compatible with both common USB A chargers and mo
 
 You should be comfortable with a solder iron and have access to a 3D printer.  Hot air re-work station is optional, but recommended.
 
-* Order PCB from OSHPark
-   - Upload the .brd file to OshPark.
-   - Select 2oz copper, 0.8mm thickness
+* Order PCB from OSHPark: https://oshpark.com/shared_projects/b8vKmTIY
+   - Click the link or upload the .brd file to OshPark.
+   - Select 2oz copper, 0.8mm thickness from the checkout page.
 * Order parts from Digikey
    - USB-C port: https://www.digikey.com/en/products/detail/cui-devices/UJC-VP-3-SMT-TR/14310511
    - 5.1K resistors: https://www.digikey.com/en/products/detail/yageo/RC0402FR-135K1L/14286364
