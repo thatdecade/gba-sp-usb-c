@@ -8,6 +8,8 @@ The half-circle pad(s) behind the USB-C connector might have some debris across 
 
 Plug it in to a ````Type-C <-> Type-C```` cable and USB-C power source (preferably PD compatible). **Do not perform this test with a ````Type-A -> Type-C```` cable - that cable won't verify the board works for full USB-C!** Use a multimeter to measure the voltage across any of the grounded holes and the +5V half-circle in the back. Ensure it reads ~5V. Flip your USB-C cable the other way around and verify it still reads 5V! Alternatively, if you have a USB-C multimeter [like this](https://amzn.to/3nlVFIE) you can simply plug into that and read the display.
 
+*We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.*
+
 # Installation Video
 
 Rory Hayes (rorosaurus) highly recommends you watch [makho's video](https://www.youtube.com/watch?v=gBLHvdre-Xg) of installing a similar version of this PCB! This is an *awesome* overview that will be very helpful to reference. 
